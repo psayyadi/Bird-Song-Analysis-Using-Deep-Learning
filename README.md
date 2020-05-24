@@ -1,5 +1,5 @@
 # Bird-Song-Analysis-Using-Deep-Learning
-Analysing the audio files for detected features have become a lot easier to do with machine learning in the recent years. These kinds of problems are not only can be very accurate but also can be performed in scale. 
+Analyzing the audio files for detected features have become a lot easier to do with machine learning in the recent years. These kinds of problems not only can be very accurate but also can be performed in scale. 
 I was lucky to get involved in a project to analyze bird songs.
 The problem:
 There are hundreds of wav files of bird song recording. The scientist looks at the spectograms and identifies and labels the syllables in songs for each bird. each bird has its unique songs, so the scientist has to develop a unique set of labels for each bird.
